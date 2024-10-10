@@ -1,0 +1,1 @@
+alert('selamat datang di about page')
